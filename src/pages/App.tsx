@@ -41,7 +41,7 @@ function App() {
         tarefas={tarefas}
         selecionaTarefa={selecionaTarefa}
       />
-      function finalizarTarefa() {
+      {
         <Cronometro
           selecionado={selecionado}
           finalizarTarefa={finalizarTarefa}
